@@ -1,0 +1,29 @@
+_repo: The-Women-of-Tomorrow_33200
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hard, William
+    birthdate: 1878
+    deathdate: 1962
+    gutenberg_agent_id: '36261'
+    url: http://www.gutenberg.org/2009/agents/36261
+description: ''
+gutenberg_issued: '2010-07-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33200'
+  lccn: '12000310'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Social and moral questions'
+- !lcc 'HQ'
+tableOfContents: Love deferred -- Learning for earning -- Learning for spending --
+  The wasters -- Mothers of the world.
+title: The Women of Tomorrow
+url: http://www.gutenberg.org/ebooks/33200
